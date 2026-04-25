@@ -1,7 +1,3 @@
-Of course. Here are the detailed, exam-ready answers for the "Graphics Application Programming" questions, formatted for a `README.md` file.
-
----
-
 # Graphics Application Programming - Exam Answers (MSc CS, SGBau)
 
 This document provides detailed answers to the provided question paper for the subject Graphics Application Programming.
